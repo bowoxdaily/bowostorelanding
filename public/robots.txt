@@ -1,0 +1,20 @@
+# robots.txt untuk Bowo Host
+User-agent: *
+Allow: /
+
+# Izinkan semua bot search engine
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: Slurp
+Allow: /
+
+# Block admin pages jika ada
+Disallow: /admin/
+Disallow: /api/
+
+# Sitemap location
+Sitemap: https://bowo-store.id/sitemap.xml
