@@ -127,10 +127,10 @@ export default function KontakPage() {
                     <h3 className="font-bold text-gray-900 mb-1 text-lg">Email</h3>
                     <p className="text-gray-600 text-sm mb-2">Kirim email ke:</p>
                     <a
-                      href="mailto:support@example.com"
+                      href="mailto:ikhwanudinaldi04@gmail.com"
                       className="text-blue-600 hover:text-blue-700 font-semibold hover:underline"
                     >
-                      support@example.com
+                      ikhwanudinaldi04@gmail.com
                     </a>
                   </div>
                 </div>
