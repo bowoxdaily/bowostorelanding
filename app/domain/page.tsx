@@ -269,6 +269,7 @@ export default function DomainPage() {
           </div>
         </div>
       </div>
+    </div>
     </>
   );
 }
