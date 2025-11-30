@@ -77,7 +77,7 @@ export default function Footer() {
             <h4 className="text-white font-semibold mb-3">Hubungi Kami</h4>
             <ul className="space-y-2 text-sm">
               <li className="text-gray-400">
-                Email: support@example.com
+                Email: ikhwanudinaldi04@gmail.com
               </li>
               <li className="text-gray-400">
                 WA: +62 8535 3549 107
