@@ -80,7 +80,7 @@ export default function Footer() {
                 Email: support@example.com
               </li>
               <li className="text-gray-400">
-                WA: +62 812-3456-7890
+                WA: +62 8535 3549 107
               </li>
               <li className="text-gray-400">
                 Support: 24/7
